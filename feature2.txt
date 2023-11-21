@@ -1,14 +1,11 @@
-<<<<<<< HEAD
-this is new feature
+
 
 our accha feature 
 
 byyy
 
 
-addding addding   
-=======
-this is new feature 
+addding addding    
 
 
 hi I am shubham bhople learning git and github with the help of shubham londe
@@ -17,4 +14,4 @@ hi I am shubham bhople learning git and github with the help of shubham londe
 thoda kam kiya
 
 our acches kiya   
->>>>>>> dev
+
